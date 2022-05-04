@@ -1,1 +1,5 @@
+https://github.com/uberhalit/EldenRingFpsUnlockAndMore
+Elden Ring is porbably the most fun, difficult, and rewarding experience in the market right now and an excellent addition to the Dark Souls franchise. This repository introduces some cool and useful mods to the existing game such as altering the game speed and disabling the loss of runes on death.
 
+https://github.com/JosefNemec/Playnite
+This is a video game library manager with game emulation support that provides one unified interface for your games. I particularly like the emulation support part as I fondly remember discovering the existence of game emuation apps for older consoles such as the Gameboy Advance and Super Nintendo on my smartphone years ago.
