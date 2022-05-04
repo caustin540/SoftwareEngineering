@@ -3,3 +3,12 @@ Elden Ring is porbably the most fun, difficult, and rewarding experience in the 
 
 https://github.com/JosefNemec/Playnite
 This is a video game library manager with game emulation support that provides one unified interface for your games. I particularly like the emulation support part as I fondly remember discovering the existence of game emuation apps for older consoles such as the Gameboy Advance and Super Nintendo on my smartphone years ago.
+
+https://github.com/smogon/pokemon-showdown
+Pokemon Showdown is a website that simulates Pokemon battles with online opponents and has an array of features and customization options with a focus on competitive battling. I love the pokemon game franchise and its niche competitive battling community so this is a website I find myself using often.
+
+https://github.com/quetzle/smash-apps
+This is a collection of useful web apps for Super Smash Bros such as stage striking and a tier list maker. As a fan of the franchise and competitive player myself in the latest game of the franchise I would definitely find use with these apps.
+
+https://github.com/YesAndGames/unity-gitignore
+.gitignore was mentioned in class earlier today and though im still not familiar with it or what its main purpose is, I understand that its something worth looking into considering its necessity in repositories. This is the Unity one as the Unity engine is something I've been wanting to get more experience with in creating games.
